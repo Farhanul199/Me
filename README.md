@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Farhanul-KI
+- 👋 Heya, I’m @Farhanul-KI
 - 👀 I’m interested in tracking and showcasing my development in the data analys sector.
 - 🌱 I’m currently learning PowerBI, Tableau, SQL and Python using data manipulation.
 - 💞️ I’m looking to keep a track and collaborating on my learning progress. 
